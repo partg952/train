@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color:yellow ;
+}
+
+#image{
+    margin-top:200px ;
+    transition: all 0.3s ease-in-out;
+    
+}
