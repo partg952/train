@@ -1,0 +1,29 @@
+#nav-bar{
+    display: flex;
+}
+#list{
+    text-align:right ;
+    justify-content: right;
+    display: flex;
+    width: 50%;
+    background-color: aqua;
+}
+
+#list li{
+   
+    text-align: right;
+    list-style: none;
+    margin: 20px;
+}
+
+#list li button{
+    background-color:transparent ;
+    padding: 10px;
+    text-align: right;
+    list-style: none;
+    margin: 20px;
+}
+
+#space{
+    width: 50%;
+}
